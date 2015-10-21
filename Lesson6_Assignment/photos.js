@@ -1,7 +1,7 @@
 /*    
     Program Name:  Photo Gallery Application
     Author: Sarah Tripp
-    Date: 10/14/15  
+    Date: 10/15/15  
     Filename: photos.js
  */
 
